@@ -1,0 +1,18 @@
+{
+   "format_version": 2,
+   "header": {
+      "description": "Minor modifications to certain textures - mostly just a consolidation of a bunch of my favourite packs.",
+      "name": "Ionic Tweaks",
+      "uuid": "d7e293b8-1e21-4819-b508-9b4a888e4182",
+      "version": [1, 2, 0],
+      "min_engine_version": [1, 16, 0]
+   },
+   "modules": [
+      {
+         "description": "Changes a number of features of Bedrock to make it more tolerable.",
+            "type": "resources",
+            "uuid": "fdcf73b3-bed2-4fd4-8f04-feb705e9cf91",
+            "version": [1, 2, 0]
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"sound_definitions": {
+		"random.door_close": {
+		"category": "block",
+		"sounds": [
+			"sounds/block/wooden_door/close1",
+			"sounds/block/wooden_door/close2",
+			"sounds/block/wooden_door/close3",
+			"sounds/block/wooden_door/close4",
+			"sounds/block/wooden_door/close5",
+			"sounds/block/wooden_door/close6"
+		]
+		},
+		"random.door_open": {
+		"category": "block",
+		"sounds": [
+			"sounds/block/wooden_door/open1",
+			"sounds/block/wooden_door/open2",
+			"sounds/block/wooden_door/open3",
+			"sounds/block/wooden_door/open4"
+		]
+		}
+	}
+}
